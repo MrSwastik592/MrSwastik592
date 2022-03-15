@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSwastik592
+- 👋 Hi, I’m @Swstik-Patil
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on web developing
