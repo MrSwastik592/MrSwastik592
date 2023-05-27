@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swstik-Patil
 - 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me mail me swastik592@gmail.com
+- 📫 How to reach me, mail me swastik592@gmail.com
 
 <!---
 MrSwastik592/MrSwastik592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
