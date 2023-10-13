@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swstik Patil
+- 👋 Hi, I’m Swastik Patil
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me, mail me at swastik592@gmail.com
 <!---
